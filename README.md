@@ -1,6 +1,6 @@
 # CronForge — Smart cron job generator — natural language to cron expressions, validation, scheduling simulation
 
-Smart cron job generator — natural language to cron expressions, validation, scheduling simulation. CronForge gives you a focused, inspectable implementation of that idea.
+Smart cron job generator — natural language to cron expressions, validation, scheduling simulation.
 
 ## Why CronForge
 
